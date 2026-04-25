@@ -10,4 +10,4 @@ Technology is the top-performing category
 West and East regions generate the highest sales
 Sales trends show consistent patterns across months and years
 📷 Dashboard Preview
-![Dashboard Screenshot](Screenshot 2026-04-25 161043.png)
+![Dashboard Screenshot](dashboard.png)
